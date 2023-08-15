@@ -38,7 +38,7 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 
 ### :nerd_face: I'm currently learning:
 
-- MongoDB
+- SQL Server
 
 ### :thinking: I want to learn:
 
